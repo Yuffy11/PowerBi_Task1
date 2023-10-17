@@ -1,10 +1,10 @@
-## Introdction to Power BI
+### Introdction to Power BI
 
-### Introduction
+#### Introduction
 
 This report serves as an introduction to Power BI. The assigned tasks include web data extraction within Power BI, importing a dataset into Power BI, and creating columns and rows with added information. These tasks are designed as an introductory experience with Power BI.
 
-### Problem Statement
+#### Problem Statement
 
 1. Extract information from a website and bring it into Power BI
 
@@ -13,7 +13,7 @@ This report serves as an introduction to Power BI. The assigned tasks include we
 3. Generate four columns and five rows of data within Power BI
 
 
-### Result/Discussion:
+#### Result/Discussion:
 
 ![](PowerBi_Task1.png)
 
